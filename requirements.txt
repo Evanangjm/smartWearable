@@ -3,7 +3,6 @@ gunicorn
 nbimporter
 nbformat
 ipython
-serial
 joblib
 numpy
 pandas
